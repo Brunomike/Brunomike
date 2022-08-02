@@ -5,7 +5,7 @@
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=brunomike&show_icons=true&theme=radical"/>
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomike&layout=compact&theme=radical&hide=html,css&langs_count=4"/>
 </a>  
-<a href="https://app.daily.dev/brunomike254"><img src="https://api.daily.dev/devcards/53b39f6851e3442fb629537b9f809aed.png?r=ncd" width="400" alt="Michael Bruno's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/brunomike254"><img src="https://api.daily.dev/devcards/53b39f6851e3442fb629537b9f809aed.png?r=ncd" width="400" alt="Michael Bruno's Dev Card"/></a> -->
 
 ### Goals
 - I'm currently learning Docker and Kubernetes
