@@ -4,6 +4,9 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=brunomike&show_icons=true&theme=radical"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomike&layout=compact&theme=radical"/>
 
+<br/>
+<br/>
+
 ## I'm a Full stack Developer
 - I'm currently learning Docker and Kubernetes
 - 2022 Goals: Contribute to Open Source projects and get a job
