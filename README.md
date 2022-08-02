@@ -6,7 +6,7 @@
 
 <br/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=brunomike254"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=brunomike254&layout=compact"/>
 
 
 
