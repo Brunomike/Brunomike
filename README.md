@@ -28,13 +28,13 @@
 ### Wakatime
 [![wakatime](https://wakatime.com/badge/user/c7ed77c4-0621-41d2-b1ff-0b35104bb064.svg)](https://wakatime.com/@c7ed77c4-0621-41d2-b1ff-0b35104bb064)
 
-### Connect with me:
+<!-- ### Connect with me:
 <a href="[linkedin]">
     <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  style="padding-right:10px;" >    
 </a>
 <a href="[twitter]">
     <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"  style="padding-right:10px;" >    
-</a>
+</a> -->
 
 
 <br/>
