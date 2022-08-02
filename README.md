@@ -1,10 +1,10 @@
 
 # Hello there, I'm Michael 👋
 
-<div>
+<a href="https://github.com/Brunomike" width="100%">
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=brunomike&show_icons=true&theme=radical"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomike&layout=compact&theme=radical&hide=html,css&langs_count=4"/>
-</div>  
+</a>  
 
 <br/>
 <br/>
@@ -32,10 +32,10 @@
 [![wakatime](https://wakatime.com/badge/user/c7ed77c4-0621-41d2-b1ff-0b35104bb064.svg)](https://wakatime.com/@c7ed77c4-0621-41d2-b1ff-0b35104bb064)
 
 ### Connect with me:
-<a href=[linkedin]>
+<a href="[linkedin]">
     <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  style="padding-right:10px;" >    
 </a>
-<a href=[twitter]>
+<a href="[twitter]">
     <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"  style="padding-right:10px;" >    
 </a>
 
