@@ -4,14 +4,6 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=brunomike&show_icons=true&theme=radical"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomike&layout=compact&theme=radical"/>
 
-<br/>
-<br/>
-
-<img  src="https://github-readme-stats.vercel.app/api/wakatime?username=brunomike254&layout=compact"/>
-
-<br />
-<br />
-
 ## I'm a Full stack Developer
 - I'm currently learning Docker and Kubernetes
 - 2022 Goals: Contribute to Open Source projects and get a job
@@ -32,6 +24,8 @@
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 <br/>
 
