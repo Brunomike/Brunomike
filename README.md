@@ -2,7 +2,7 @@
 # Hello there, I'm Michael 👋
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=brunomike&show_icons=true&theme=radical"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomike&layout=compact&theme=dark"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomike&theme=dark"/>
 
 <br/>
 
