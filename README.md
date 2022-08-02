@@ -1,16 +1,18 @@
-- 👋 Hi, I’m @Brunomike
-- 👀 I’m interested in Web Development and Android Development.
-- 🌱 I’m currently learning Android Development in Java Programming Language.
-- 💞️ I’m looking to collaborate on major applications impacting real day to day problems.
-- 📫 How to reach me testmichaelbruno@gmail.com
 
-# Hi there, I'm Michael Bruno [website]
+# Hi there, I'm Michael Bruno [website] 👋
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=brunomike&show_icons=true&theme=radical"/>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomike&layout=compact"/>
 
 <img aligne="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=brunomike254"/>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 <br />
 <br />
