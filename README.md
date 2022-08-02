@@ -5,14 +5,9 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomike&layout=compact"/>
 
-<img aligne="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=brunomike254"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=brunomike254"/>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+
 
 <br />
 <br />
