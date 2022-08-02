@@ -2,8 +2,8 @@
 # Hello there, I'm Michael 👋
 
 <a href="https://github.com/Brunomike" width="100%">
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=brunomike&show_icons=true&theme=radical"/>
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomike&layout=compact&theme=radical&hide=html,css&langs_count=4"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=brunomike&show_icons=true&theme=radical"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomike&layout=compact&theme=radical&hide=html,css&langs_count=4"/>
 </a>  
 
 
