@@ -19,7 +19,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="michaelbruno.tech" width="22px"/>][website]
+<a href=[linkedin]>
+    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+</a>
 
 ### Languages and Tools:
 
