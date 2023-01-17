@@ -1,4 +1,3 @@
-
 # Hello there, I'm Michael 👋
 
 <a href="https://github.com/Brunomike" width="100%">
@@ -8,7 +7,6 @@
 <!-- <a href="https://app.daily.dev/brunomike254"><img src="https://api.daily.dev/devcards/53b39f6851e3442fb629537b9f809aed.png?r=ncd" width="400" alt="Michael Bruno's Dev Card"/></a> -->
 
 ### Goals
-- I'm currently learning Docker and Kubernetes
 - Contribute to Open Source projects and get a job
 
 
